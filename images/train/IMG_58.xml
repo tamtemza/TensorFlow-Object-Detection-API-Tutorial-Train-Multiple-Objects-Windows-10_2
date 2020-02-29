@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CNNGUN</folder>
+	<filename>IMG_58.jpg</filename>
+	<path>C:\Users\user\Downloads\CNNGUN\IMG_58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>63</ymin>
+			<xmax>254</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

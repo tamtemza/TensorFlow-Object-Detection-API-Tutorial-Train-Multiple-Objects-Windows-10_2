@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CNNGUN</folder>
+	<filename>IMG_32.jpg</filename>
+	<path>C:\Users\user\Downloads\CNNGUN\IMG_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>31</ymin>
+			<xmax>620</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
